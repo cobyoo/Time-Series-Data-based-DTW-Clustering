@@ -1,0 +1,85 @@
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:7:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:9:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.rdd.RDD[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:11:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.{SparkConf, SparkContext}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:12:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.rdd.RDD // RDD 형식 파일[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:13:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:14:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.{Row,SparkSession,SQLContext,DataFrame}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:15:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.functions.lit[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:16:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.log4j.{Level, LogManager, Logger}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:17:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.types.{DataTypes,StructType, StructField, StringType, IntegerType, FloatType, MapType, DoubleType, ArrayType}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:18:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.functions.{col,from_json,split,explode,abs,exp,pow,sqrt,broadcast}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:20:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.functions.col[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:21:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.functions._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:24:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.expressions.Window[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:25:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.functions.row_number[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:30:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.ml.clustering.KMeans[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:31:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.mllib.linalg.{Vector, Vectors}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:32:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.functions.lit[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:33:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.sql.functions._[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:34:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.ml.stat.Summarizer[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:35:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.ml.feature.{StringIndexer, VectorAssembler}[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:36:8: not found: object breeze[0m
+[0m[[0m[31merror[0m] [0m[0mimport breeze.linalg.DenseMatrix[0m
+[0m[[0m[31merror[0m] [0m[0m       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:37:12: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0mimport org.apache.spark.mllib.recommendation.Rating[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:41:17: not found: value SparkSession[0m
+[0m[[0m[31merror[0m] [0m[0m    val spark = SparkSession.builder()[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:46:30: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0m    val sqlContext = new org.apache.spark.sql.SQLContext(sc) //데이터 프레임[0m
+[0m[[0m[31merror[0m] [0m[0m                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:53:34: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0m    val feature_path_query = org.apache.spark.SparkFiles.get("query_rows.csv")[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:54:34: object apache is not a member of package org[0m
+[0m[[0m[31merror[0m] [0m[0m    val feature_path_whole = org.apache.spark.SparkFiles.get("millon.csv")[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:90:65: not found: type RDD[0m
+[0m[[0m[31merror[0m] [0m[0m  def data_process (feature_file : String, sc : SparkContext) : RDD[(String , Array[Float])] = {   [0m
+[0m[[0m[31merror[0m] [0m[0m                                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/dblab/ysh/clustering/src/main/scala/com/example/clustering/App.scala:90:49: not found: type SparkContext[0m
+[0m[[0m[31merror[0m] [0m[0m  def data_process (feature_file : String, sc : SparkContext) : RDD[(String , Array[Float])] = {   [0m
+[0m[[0m[31merror[0m] [0m[0m                                                ^[0m
+[0m[[0m[31merror[0m] [0m[0m28 errors found[0m
